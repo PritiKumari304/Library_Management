@@ -16,7 +16,7 @@ Tasks Performed:-
      
 It includes 1 HTML page and 4 JSP Pages
 
-1. index.html page incluses te link to all the JSP pages.![Screenshot 2024-11-16 210527](https://github.com/user-attachments/assets/aa31b9fc-baab-4174-b037-d6a23addbee4)
+1. index.html page incluses te link to all the JSP pages.  ![Screenshot 2024-11-16 210527](https://github.com/user-attachments/assets/aa31b9fc-baab-4174-b037-d6a23addbee4)
 
 2. Add.jsp helps user to add the books that are not present in the database along with Add.java servlet file. ![Screenshot 2024-11-16 211759](https://github.com/user-attachments/assets/a7e40d24-2da4-404b-9420-b66a7e95442a)  ![Screenshot 2024-11-16 211811](https://github.com/user-attachments/assets/9ee544c4-f35a-4fb7-937b-121b2ab0d104)
 
